@@ -1,0 +1,16 @@
+{
+  "name": "programacionavanzadaviernes6am",
+  "version": "1.0.0",
+  "description": "Hola mundo con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "let",
+    "vs",
+    "var"
+  ],
+  "author": "DiazO",
+  "license": "ISC"
+}
